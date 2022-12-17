@@ -23,3 +23,6 @@ library(coefplot)
 ~~~ 
 
 Damit kann das Skript bereits ausgeführt werden.
+
+## Referenz zu den Daten:
+https://www.kaggle.com/c/bike-sharing-demand
